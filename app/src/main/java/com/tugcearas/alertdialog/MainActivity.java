@@ -31,8 +31,6 @@ public class MainActivity extends AppCompatActivity {
 
         */
 
-
-
         // küçük pop-up mesaj oluşturmak için ;
         Toast.makeText(MainActivity.this,"Toast message",Toast.LENGTH_LONG).show();
 
